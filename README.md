@@ -14,4 +14,5 @@ The analysis was useful to be able to create a new dataset with the desired resu
 1. Which passengers, male and female, survived?
 2. Which passengers, men and women, died?
 3. Which male first class passengers survived?  
+
 Among other questions that can be asked in the same dataset or that can serve as a model for similar necessary solutions in other datasets.

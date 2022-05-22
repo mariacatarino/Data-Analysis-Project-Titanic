@@ -13,5 +13,5 @@
 The analysis was useful to be able to create a new dataset with the desired results. The same line of reasoning could be used to create new datasets like:
 1. Which passengers, male and female, survived?
 2. Which passengers, men and women, died?
-3. Which male first class passengers survived?
+3. Which male first class passengers survived?  
 Among other questions that can be asked in the same dataset or that can serve as a model for similar necessary solutions in other datasets.
